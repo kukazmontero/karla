@@ -1717,7 +1717,12 @@ color: #fff;
 }
 
 .about .about_img figure {
-     margin: 0px;
+     display: block;
+     top: 50%;
+     bottom: 50%;
+     margin-left: auto;
+     margin-right: auto;
+     width: 80%;
 }
 
 .about .about_box {
