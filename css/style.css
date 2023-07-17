@@ -2173,3 +2173,12 @@ ul.location_icon span {
 .special-page .relative  {text-align:center !important; }
 
 .special-page .footer {margin-top: 90px;}
+
+.karla{
+     display: block;
+     top: 50%;
+     bottom: 50%;
+     margin-left: auto;
+     margin-right: auto;
+     width: 50%;
+}
