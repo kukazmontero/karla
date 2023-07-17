@@ -2182,3 +2182,12 @@ ul.location_icon span {
      margin-right: auto;
      width: 50%;
 }
+
+.karla1{
+     display: block;
+     top: 50%;
+     bottom: 50%;
+     margin-left: auto;
+     margin-right: auto;
+     width: 100%;
+}
