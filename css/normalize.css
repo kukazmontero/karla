@@ -60,7 +60,10 @@ main { /* 1 */
  */
 
 figure {
-  margin: 1em 40px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 70%;
 }
 
 /**
